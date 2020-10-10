@@ -8,6 +8,10 @@
         margin-top: 5px;
         width: 300px;
     }
+
+    .filme-principal{
+        height: 400px;
+    }
 }
 
 @media screen and (min-width: 1000px){
